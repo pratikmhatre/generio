@@ -1,16 +1,9 @@
-# generio
+# Generio - Cover Letter Generator
 
-A new Flutter project.
+Got it! Here's a casual, general-purpose description without mentioning personal use:
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+**Generio** is a lightweight desktop app that helps you generate tailored cover letters for job applications using a local LLM (large language model). Just enter the job description, company name, and your profile details—the app takes care of the rest. It runs entirely offline for speed and privacy, making it a simple, AI-powered tool for crafting professional cover letters without the hassle.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
